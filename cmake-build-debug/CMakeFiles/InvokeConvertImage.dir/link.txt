@@ -1,0 +1,1 @@
+/usr/bin/c++  -fsanitize=leak -O1 -g CMakeFiles/InvokeConvertImage.dir/main.cpp.o -o InvokeConvertImage  -Wl,-rpath,/usr/local/lib /usr/local/lib/libConvertImage.so 
